@@ -6,7 +6,7 @@ This project was the first project (Project 1) from IndonesiaAI Computer Vision 
 We extracted the dataset CelebA Dataset (https://www.kaggle.com/datasets/jessicali9530/celeba-dataset) and only using 5000 images.
 
 # Background
-Face recognition plays an important role in our daily activity tasks --> can be very useful for security and access control applications. 
+Face recognition plays an important role in our daily activity tasks; itcan be very useful for security and access control applications. 
 
 The way humans perceive gender relies not only on the face region perception but also on the surroundings, such as skin tone, hair, and wearing attributes such as hats, eyeglasses, earrings, etc. 
 
@@ -15,11 +15,16 @@ Gender classification based on facial images has received increased attention in
 # Getting started
 The dataset was downloaded from https://drive.google.com/drive/folders/19MRsL8ZWR9mXme-bSodyAUHrwIT2Eig7?usp=drive_link
 
+After unzipped it, use file 'image_attributes_filtered.csv' [image_attributes_filtered.csv](https://github.com/LSardiani/Gender_Classification/files/12063725/image_attributes_filtered.csv)
+
+Please do not forget to replace -1 with 0 (female code) in the data, and balancing the male and female data.
+
 # Model
 
 Transfer learning: VGG-19
 
 Train : test : validation = 70 : 20 : 10 
+
 
 Using Data augmentation
 
@@ -35,13 +40,14 @@ HL-4 Dense(32), relu, Dropout(0.2)
 
 OL   Dense(2), softmax
 
-Batch size: 32; Learningrate: 0.0001; Epoch: 10; Loss function: SparseCategoricalCrossentropy
+Batch size: 32; Learning rate: 0.0001; Epoch: 10; Loss function: SparseCategoricalCrossentropy
 
 Training time: 0.07 hours
 
 # Results
 
 Training and Validation Curves
+
 ![Validation_Curves_Experiment_2](https://github.com/LSardiani/Gender_Classification/assets/135226112/28f03ccc-c970-4205-aa2a-9d5225a2ca9a)
 
 # Confusion Matrix

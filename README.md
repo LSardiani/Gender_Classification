@@ -15,7 +15,7 @@ Gender classification based on facial images has received increased attention in
 # Getting started
 The dataset was downloaded from https://drive.google.com/drive/folders/19MRsL8ZWR9mXme-bSodyAUHrwIT2Eig7?usp=drive_link
 
-After unzipped it, use file 'image_attributes_filtered.csv' [image_attributes_filtered.csv](https://github.com/LSardiani/Gender_Classification/files/12063725/image_attributes_filtered.csv)
+After unzipped it, use the file 'image_attributes_filtered.csv' [image_attributes_filtered.csv](https://github.com/LSardiani/Gender_Classification/files/12063725/image_attributes_filtered.csv)
 
 Please do not forget to replace -1 with 0 (female code) in the data, and balancing the male and female data.
 

@@ -65,12 +65,13 @@ Training and Validation Curves
 # Actual prediction
 ![Foto_Aktual_vs_Prediksi_VGG_Experiment](https://github.com/LSardiani/Gender_Classification/assets/135226112/a837525b-d23d-4cc7-a28e-8467936b1844)
 
-# Wrong prediction Female
-![Female_di_Prediksi_sebagai_Male_VGG_Experiment](https://github.com/LSardiani/Gender_Classification/assets/135226112/c7ed19c1-f4fb-4bb4-9f26-01ed8cc19a3c)
-
 # Wrong prediction Male
 ![Male_di_Prediksi_sebagai_Female_VGG_Experiment](https://github.com/LSardiani/Gender_Classification/assets/135226112/f8220b35-d791-428e-a93a-0f5df15f8ab9)
 
+# Wrong prediction Female
+![Female_di_Prediksi_sebagai_Male_VGG_Experiment](https://github.com/LSardiani/Gender_Classification/assets/135226112/c7ed19c1-f4fb-4bb4-9f26-01ed8cc19a3c)
+
 # Contact
 Please reach me on my email: lilysilva.dr@gmail.com for any further discussion.
+
 Thank you!

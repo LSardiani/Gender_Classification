@@ -72,6 +72,6 @@ Training and Validation Curves
 ![Female_di_Prediksi_sebagai_Male_VGG_Experiment](https://github.com/LSardiani/Gender_Classification/assets/135226112/c7ed19c1-f4fb-4bb4-9f26-01ed8cc19a3c)
 
 # Contact
-Please reach me on my email: lilysilva.dr@gmail.com for any further discussion.
+Please reach me my email: lilysilva.dr@gmail.com for any further discussion.
 
 Thank you!
